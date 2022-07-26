@@ -1,0 +1,23 @@
+{
+  "name": "Weather-Report-App",
+  "version": "1.0.0",
+  "description": "Using HTML, CSS, and JavaScript to create a fully functional weather app using an API.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MMM-ZA/Weather-Report-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MMM-ZA/Weather-Report-App/issues"
+  },
+  "homepage": "https://github.com/MMM-ZA/Weather-Report-App#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
