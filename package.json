@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/MMM-ZA/Weather-Report-App#readme",
   "dependencies": {
-    "dotenv": "^16.0.1"
+    "dotenv": "^16.0.1",
+    "webpack": "^5.74.0"
   }
 }
